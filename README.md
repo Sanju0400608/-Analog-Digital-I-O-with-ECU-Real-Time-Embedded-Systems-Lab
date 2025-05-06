@@ -4,34 +4,14 @@ This project explores the integration of analog and digital input/output (I/O) w
 
 ## 🔧 Tools Used
 - **Simulink** – For system modeling and simulation
-- **dSPACE (MicroAutoBox)** – For real-time implementation and I/O interface
+- **dSPACE (MicroAutoBox)** – For real-time implementation and I/O interfacing
 - **Control Desk** – For real-time data monitoring and signal tuning
 
 ## 🧠 What You'll Learn
-- Basics of analog and digital I/O in control systems
-- Real-time data acquisition and signal processing
-- Interfacing sensors and actuators using dSPACE hardware
-- Validating system behavior using Control Desk plots
+- Fundamentals of analog and digital I/O in control systems
+- Real-time data acquisition and signal processing techniques
+- Interfacing sensors and actuators with embedded systems
+- Validating control logic using live plots in Control Desk
 
 ## 📁 Project Structure
 
-
-## 🚀 Getting Started
-1. Clone this repository:
-
-2. Open the Simulink model in MATLAB.
-3. Compile and download to the dSPACE hardware.
-4. Use Control Desk for live monitoring and data collection.
-
-## 📸 Screenshots
-*Include images of your Control Desk plots and hardware setup here if needed.*
-
-## 📜 License
-This project is for educational use only.
-
----
-
-**Developed as part of real-time embedded control coursework using dSPACE and MATLAB/Simulink.**
-
-git add README.md
-git commit -m "Add README with project description"
